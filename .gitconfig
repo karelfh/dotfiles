@@ -1,3 +1,8 @@
-[user]
-	email = karel.frantisek.houf@gmail.com
-	name = Karel F. Houf
+[core]
+	editor = vim
+
+[color "diff"]
+	whitespace = red reverse
+
+[include]
+	path = ~/.gitconfig.user
